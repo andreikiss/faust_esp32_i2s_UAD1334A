@@ -24,3 +24,4 @@ Actually seen how to use the proper configuration with this i2s DAC
 Here - [Link to a glorious repo](https://github.com/schreibfaul1/ESP32-audioI2S/blob/83a9370373924b5b099962de2d40e702ce1754e0/src/Audio.cpp#L187) 
 
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/deMjfVzEPJA/0.jpg)](https://www.youtube.com/watch?v=deMjfVzEPJA)
